@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 99
+  controlID: 97
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -96,8 +96,8 @@ MonoBehaviour:
     y: 0
     width: 363
     height: 597
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 1103
     height: 597
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -7976,26 +7976,26 @@ MonoBehaviour:
     detailsScroll: {x: 0, y: 0}
   settingsView:
     gitPathView:
-      gitPath: C:\Users\afort2\AppData\Local\GitForUnity\git\cmd\git.exe
-      gitLfsPath: C:\Users\afort2\AppData\Local\GitForUnity\git\mingw64\libexec\git-core\git-lfs.exe
+      gitPath: C:\Users\kgann2\AppData\Local\GitForUnity\git\cmd\git.exe
+      gitLfsPath: C:\Users\kgann2\AppData\Local\GitForUnity\git\mingw64\libexec\git-core\git-lfs.exe
       errorMessage: 
       resetToBundled: 0
       resetToSystem: 0
       changingManually: 0
       installSettingsHidden: 0
-    hasRemote: 1
+    hasRemote: 0
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2025-01-28T15:47:35.435-06:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 1
-    newRepositoryRemoteUrl: https://github.com/afort2/module1.git
+    newRepositoryRemoteUrl: 
     repositoryRemoteName: origin
-    repositoryRemoteUrl: https://github.com/afort2/module1.git
+    repositoryRemoteUrl: 
     scroll: {x: 0, y: 0}
     userSettingsView:
-      gitName: afort2
-      gitEmail: alexah.school.files@gmail.com
-      newGitName: afort2
-      newGitEmail: alexah.school.files@gmail.com
+      gitName: 
+      gitEmail: 
+      newGitName: 
+      newGitEmail: 
       needsSaving: 0
       lastCheckUserChangedEvent:
         updatedTimeString: 0001-01-01T00:00:00.000+00:00
@@ -9288,14 +9288,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\afort2\Desktop\Roll a ball
+  m_LastProjectPath: C:\Users\afort2\Documents\GitHub\RollABall_aFort
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ba6e0000
-    m_LastClickedID: 28346
-    m_ExpandedIDs: 00000000ba6e000000ca9a3b
+    m_SelectedIDs: 1e710000
+    m_LastClickedID: 28958
+    m_ExpandedIDs: 000000001e71000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -9323,7 +9323,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ba6e0000
+    m_ExpandedIDs: 000000001e710000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -9465,9 +9465,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 0e6e0000
       m_LastClickedID: 0
-      m_ExpandedIDs: fafaffff
+      m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -9898,7 +9898,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.3630086, y: -0.50710857, z: 0.24834204, w: 0.7412357}
     speed: 2
-    m_Value: {x: 0.3630016, y: -0.50709885, z: 0.24833727, w: 0.7412214}
+    m_Value: {x: -0.3630086, y: 0.50710857, z: -0.24834205, w: -0.7412357}
   m_Size:
     m_Target: 10.598715
     speed: 2
